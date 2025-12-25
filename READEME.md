@@ -100,7 +100,7 @@ Deploy on Render / AWS
 
 Add frontend UI
 
-## 👤 Author
+ 👤 Author
 
 Name: Jayswal Kunj
 Field: Electronics & Communication Engineering
