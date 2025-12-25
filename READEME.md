@@ -100,12 +100,13 @@ Deploy on Render / AWS
 
 Add frontend UI
 
- 👤 Author
+## 👤 Author
 
-Name: Jayswal Kunj
-Field: Electronics & Communication Engineering
-Interest: AI / ML / NLP
-Location: India 🇮🇳
+- Name: Jayswal Kunj  
+- Field: Electronics & Communication Engineering  
+- Interest: AI / ML / NLP  
+- Location: India 🇮🇳
+
 
 ## ⭐ Acknowledgment
 
